@@ -1,12 +1,12 @@
 # 📰 Problem Statement 
 Companies want to categorize their customers into different types customer behaviors .so that , they can personalized recommendataions , offers , retention campains.
 
-#🎯 Objective 
+# 🎯 Objective 
 Build a segmentation model using k-means clustering algorithm.
 
 It should segment customers into 3 categories (Premium, Aerage, low budget)
 
-#⚙️ Tech Stack 
+# ⚙️ Tech Stack 
 Python 
 Pandas 
 Matplotlib
@@ -48,8 +48,11 @@ Perfromed visual analysis using scatter() to see the number of the categories i 
 
 # Impact of this model on business
   ➡️Personal recommendations
+  
   ➡️Personalized offers 
+  
   ➡️Retention campains 
+  
   ➡️Finding premium customers
 
   
